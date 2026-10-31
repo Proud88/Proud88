@@ -79,7 +79,7 @@ Email: [fanzihao53@gmail.com](mailto:fanzihao53@gmail.com)
 
 ## 关于我
 
-- **范梓豪** · 中共党员
+- **范梓豪** · 中共党员💖
 - 西南财经大学硕士研究生
 - 研究兴趣：因果推断、金融计量、机器学习
 
