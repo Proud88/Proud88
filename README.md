@@ -22,8 +22,8 @@
 
   <p>
     <picture>
-      <source media="(max-width: 700px)" srcset="https://github.com/Proud88/Proud88/releases/download/profile-assets-v1/hobbies-mobile-3.svg">
-      <img src="https://github.com/Proud88/Proud88/releases/download/profile-assets-v1/hobbies-3.svg" alt="Swimming, tennis, literature, single, fitness">
+      <source media="(max-width: 700px)" srcset="https://github.com/Proud88/Proud88/releases/download/profile-assets-v2/hobbies-mobile-3.png">
+      <img src="https://github.com/Proud88/Proud88/releases/download/profile-assets-v2/hobbies-3.png" alt="Swimming, tennis, literature, single, fitness">
     </picture>
   </p>
 
