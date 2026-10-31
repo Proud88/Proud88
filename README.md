@@ -39,7 +39,7 @@
   </p>
 </div>
 
-## ABOUT
+## ABOUT ME
 
 - **Zihao Fan** · CCP member
 - Master's student at Southwestern University of Finance and Economics
@@ -66,6 +66,16 @@
 ## CONTACT
 
 Email: [fanzihao53@gmail.com](mailto:fanzihao53@gmail.com)
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://github.com/Proud88/Proud88/releases/download/profile-assets-v2/divider.png" width="100%" alt="">
+</p>
+
+<br/>
+<br/>
 
 ## 关于我
 
