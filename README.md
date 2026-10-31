@@ -1,14 +1,14 @@
 <!--
   Zihao Fan · profile readme
   Name-only hero, wine typing line, two rows of quiet GitHub tags.
-  Hero: https://cdn.jsdelivr.net/gh/Proud88/profile-assets@main/hero-day-8.jpg (desktop 1920×840) / https://cdn.jsdelivr.net/gh/Proud88/profile-assets@main/hero-day-mobile-8.jpg (wide 900×480).
+  Hero: https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-8.jpg (desktop 1920×840) / https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-mobile-8.jpg (wide 900×480).
   Background photo: tom_bullock / Wikimedia Commons / CC BY 2.0 (see footer).
 -->
 
 <div align="center">
   <picture>
-    <source media="(max-width: 700px)" srcset="https://cdn.jsdelivr.net/gh/Proud88/profile-assets@main/hero-day-mobile-8.jpg">
-    <img src="https://cdn.jsdelivr.net/gh/Proud88/profile-assets@main/hero-day-8.jpg" width="100%" alt="Zihao Fan, over a daytime Manhattan aerial view">
+    <source media="(max-width: 700px)" srcset="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-mobile-8.jpg">
+    <img src="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-8.jpg" width="100%" alt="Zihao Fan, over a daytime Manhattan aerial view">
   </picture>
 
   <br/>
@@ -22,8 +22,8 @@
 
   <p>
     <picture>
-      <source media="(max-width: 700px)" srcset="https://cdn.jsdelivr.net/gh/Proud88/profile-assets@main/hobbies-mobile-3.png">
-      <img src="https://cdn.jsdelivr.net/gh/Proud88/profile-assets@main/hobbies-3.png" alt="Swimming, tennis, literature, single, fitness">
+      <source media="(max-width: 700px)" srcset="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hobbies-mobile-3.png">
+      <img src="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hobbies-3.png" alt="Swimming, tennis, literature, single, fitness">
     </picture>
   </p>
 
@@ -71,7 +71,7 @@ Email: [fanzihao53@gmail.com](mailto:fanzihao53@gmail.com)
 <br/>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Proud88/profile-assets@main/divider.png" width="100%" alt="">
+  <img src="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/divider.png" width="100%" alt="">
 </p>
 
 <br/>
