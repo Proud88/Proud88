@@ -6,6 +6,26 @@
 -->
 
 <div align="center">
+  <sub><a href="#english">🇬🇧 English</a> &nbsp;·&nbsp; <a href="#中文">🇨🇳 中文</a></sub>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="mailto:fanzihao53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Proud88">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://orcid.org/0009-0006-0583-7151">
+    <img src="https://img.shields.io/badge/ORCID-0009--0006--0583--7151-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(max-width: 700px)" srcset="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-mobile-8.jpg">
     <img src="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-8.jpg" width="100%" alt="Zihao Fan, over a daytime Manhattan aerial view">
@@ -39,6 +59,7 @@
   </p>
 </div>
 
+<a name="english"></a>
 ## ABOUT ME
 
 - **Zihao Fan** · CCP member
@@ -77,6 +98,7 @@ Email: [fanzihao53@gmail.com](mailto:fanzihao53@gmail.com)
 <br/>
 <br/>
 
+<a name="中文"></a>
 ## 关于我
 
 - **范梓豪** · 中共党员💖
