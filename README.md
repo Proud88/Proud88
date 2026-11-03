@@ -1,29 +1,10 @@
 <!--
   Zihao Fan · profile readme
-  Name-only hero, wine typing line, two rows of quiet GitHub tags.
+  Name-only hero, wine typing line, three rows of quiet GitHub tags,
+  language switch centered beneath them.
   Hero: https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-8.jpg (desktop 1920×840) / https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-mobile-8.jpg (wide 900×480).
   Background photo: tom_bullock / Wikimedia Commons / CC BY 2.0 (see footer).
 -->
-
-<div align="center">
-  <sub><a href="#user-content-about-me">English</a> &nbsp;·&nbsp; <a href="#user-content-关于我">中文</a></sub>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="mailto:fanzihao53@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://github.com/Proud88">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://orcid.org/0009-0006-0583-7151">
-    <img src="https://img.shields.io/badge/ORCID-0009--0006--0583--7151-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
-  </a>
-</div>
-
-<br/>
 
 <div align="center">
   <picture>
@@ -41,6 +22,18 @@
   <br/>
 
   <p>
+    <a href="mailto:fanzihao53@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://github.com/Proud88">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+    <a href="https://orcid.org/0009-0006-0583-7151">
+      <img src="https://img.shields.io/badge/ORCID-0009--0006--0583--7151-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+    </a>
+  </p>
+
+  <p>
     <picture>
       <source media="(max-width: 700px)" srcset="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hobbies-mobile-3.png">
       <img src="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hobbies-3.png" alt="Swimming, tennis, literature, single, fitness">
@@ -56,6 +49,14 @@
     <img src="https://img.shields.io/badge/Stata-7A2E46?style=for-the-badge&amp;logo=stata&amp;logoColor=white" alt="Stata">
     <img src="https://img.shields.io/badge/Wind-8C4A2F?style=for-the-badge" alt="Wind">
     <img src="https://img.shields.io/badge/LaTeX-4A4F57?style=for-the-badge&amp;logo=latex&amp;logoColor=white" alt="LaTeX">
+  </p>
+
+  <br/>
+
+  <p>
+    <a href="#user-content-about-me"><strong>English</strong></a>
+    &nbsp;·&nbsp;
+    <a href="#user-content-关于我"><strong>中文</strong></a>
   </p>
 </div>
 
