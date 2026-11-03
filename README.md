@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <sub><a href="#english">🇬🇧 English</a> &nbsp;·&nbsp; <a href="#中文">🇨🇳 中文</a></sub>
+  <sub><a href="#user-content-about-me">🇬🇧 English</a> &nbsp;·&nbsp; <a href="#user-content-关于我">🇨🇳 中文</a></sub>
 </div>
 
 <br/>
@@ -59,7 +59,6 @@
   </p>
 </div>
 
-<a name="english"></a>
 ## ABOUT ME
 
 - **Zihao Fan** · CCP member
@@ -98,7 +97,6 @@ Email: [fanzihao53@gmail.com](mailto:fanzihao53@gmail.com)
 <br/>
 <br/>
 
-<a name="中文"></a>
 ## 关于我
 
 - **范梓豪** · 中共党员💖
