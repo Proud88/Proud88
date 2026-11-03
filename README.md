@@ -1,6 +1,6 @@
 <!--
   Zihao Fan · profile readme
-  Name-only hero, wine typing line, two rows of quiet GitHub tags.
+  Name-only hero, wine typing line, two rows of quiet GitHub tags, wine contribution heatmap at the foot.
   Hero: https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-8.jpg (desktop 1920×840) / https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-mobile-8.jpg (wide 900×480).
   Background photo: tom_bullock / Wikimedia Commons / CC BY 2.0 (see footer).
 -->
@@ -59,7 +59,7 @@
 
 ## EXPERIENCE
 
-- **2026.03–2026.06 · Shenzhen Zhunxing Private Securities Fund Management · Marketing Assistant**
+- **2026.03–2026.06 · A Financial Institution in Shenzhen · Marketing Assistant**
 - **2024.06–2025.09 · School Research Assistant**
 - **2024.03–2026.06 · School Counselor Assistant**
 
@@ -97,13 +97,22 @@ Email: [fanzihao53@gmail.com](mailto:fanzihao53@gmail.com)
 
 ## 实践经历
 
-- **2026.03–2026.06 · 深圳市准星私募证券基金管理有限公司 · 市场助理**
+- **2026.03–2026.06 · 深圳市某金融机构 · 市场助理**
 - **2024.06–2025.09 · 学院科研助理**
 - **2024.03–2026.06 · 学院辅导员助理**
 
 ## 联系
 
 邮箱：[fanzihao53@gmail.com](mailto:fanzihao53@gmail.com)
+
+<br/>
+<br/>
+
+## 活跃度
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/A63A50/Proud88" width="100%" alt="范梓豪的 GitHub 贡献热力图">
+</p>
 
 <br/>
 
