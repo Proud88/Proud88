@@ -6,7 +6,7 @@
 -->
 
 <div align="center">
-  <sub><a href="#user-content-about-me">🇬🇧 English</a> &nbsp;·&nbsp; <a href="#user-content-关于我">🇨🇳 中文</a></sub>
+  <sub><a href="#user-content-about-me">English</a> &nbsp;·&nbsp; <a href="#user-content-关于我">中文</a></sub>
 </div>
 
 <br/>
