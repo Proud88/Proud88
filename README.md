@@ -1,6 +1,6 @@
 <!--
   Zihao Fan · profile readme
-  Name-only hero, wine typing line, two rows of quiet GitHub tags, Tsinghua-purple contribution snake at the foot (auto-refreshed daily via Actions).
+  Name-only hero, wine typing line, two rows of quiet GitHub tags.
   Hero: https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-8.jpg (desktop 1920×840) / https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@main/hero-day-mobile-8.jpg (wide 900×480).
   Background photo: tom_bullock / Wikimedia Commons / CC BY 2.0 (see footer).
 -->
@@ -104,18 +104,6 @@ Email: [fanzihao53@gmail.com](mailto:fanzihao53@gmail.com)
 ## 联系
 
 邮箱：[fanzihao53@gmail.com](mailto:fanzihao53@gmail.com)
-
-<br/>
-<br/>
-
-## 活跃度
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@output/github-snake-dark.svg">
-    <img src="https://cdn.jsdelivr.net/gh/Proud88/ZihaoFan_Introduction-assets@output/github-snake.svg" width="100%" alt="范梓豪的 GitHub 贡献贪吃蛇动画">
-  </picture>
-</p>
 
 <br/>
 
